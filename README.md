@@ -55,7 +55,7 @@ I then built three functions to extract HOG features, Color Histogram and Raw pi
  
 #### 2. Explain how you settled on your final choice of HOG parameters.
 
-While training the model using Linear SVC, I used various color spaces, orientation number, pixels per cell and cells per block. Testing accuracy was used to decide on the final parameters. Best test accuracy was achieved when I used colorspace 'YCrCb', orientations = 10, pixels per cell = 8 and cell per block = 2 and HOG channel = 'ALL'. For histogram number of bins used were 16 and for spatial binning function rezise value of 16x16. Final test accuracy achieved was of 98.68%
+While training the model using Linear SVC, I used various color spaces, orientation number, pixels per cell and cells per block. Testing accuracy was used to decide on the final parameters. Best test accuracy was achieved when I used colorspace 'YCrCb', orientations = 10, pixels per cell = 8 and cell per block = 2 and HOG channel = 'ALL'. For histogram number of bins used were 16 and for spatial binning function rezise value of 16x16. Final test accuracy achieved was of 98.62%
 
 
 ### Sliding Window Search
