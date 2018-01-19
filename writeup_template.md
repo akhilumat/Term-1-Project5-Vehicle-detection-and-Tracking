@@ -92,7 +92,8 @@ To avoid false positives and combine overlapping boxes I used three fuctions. Fi
 #### 3. Defining Pipeline for video
 
 While defining pipeline for the video, there was issue of missing boxes in few frames. So to avoid this issue, I defined a deque variable heatmaps whose maximum length was set to be 50. This variable was used to store heatmaps of 50 frames and there value were added and made input to draw labeled boxes function. Threshhold value was set as 25 to avoid false detections in the video stream. After applying this improvement missing boxes in the video stream was avoided. 
----
+
+
 
 ### Discussion
 
