@@ -16,17 +16,17 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 [image1]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/blob/master/output_images/Capture1.PNG
-[image2]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture2.PNG
-[image3]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture3.PNG
-[image4]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture4.PNG
-[image5]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture5.PNG
-[image6]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture6.PNG
-[image7]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture7.PNG
-[image8]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture8.PNG
-[image9]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture9.PNG
-[image10]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture10.PNG
-[image11]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture11.PNG
-[image12]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture12.PNG
+[image2]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/blob/master/output_images/Capture2.PNG
+[image3]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/blob/master/output_images/Capture3.PNG
+[image4]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/blob/master/output_images/Capture4.PNG
+[image5]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/blob/master/output_images/Capture5.PNG
+[image6]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/blob/master/output_images/Capture6.PNG
+[image7]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/blob/master/output_images/Capture7.PNG
+[image8]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/blob/master/output_images/Capture8.PNG
+[image9]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/blob/master/output_images/Capture9.PNG
+[image10]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/blob/master/output_images/Capture10.PNG
+[image11]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/blob/master/output_images/Capture11.PNG
+[image12]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/blob/master/output_images/Capture12.PNG
 [video1]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/FinalOutput_Video.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
