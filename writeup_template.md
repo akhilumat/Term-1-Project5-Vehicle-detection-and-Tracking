@@ -46,6 +46,7 @@ You're reading it!
 Firstly I separated cars and notcars images from training images. I also added few of my images to augment the dataset. Total number of car images were 8841 and not car images were 8968. Images are shown below
 
 ![alt text][image1]
+
 ![alt text][image2]
 
 I then built three functions to extract HOG features, Color Histogram and Raw pixel values with spatial binning from an image. Three fuctions used are in cell 3 of my code. After that I also built one more fuction which would extract all the features from an image using above mentioned 3 fuctions. This function would take set of images, read them individually, resize them, convert 4 channel images to 3 channel, convert image into desired colorspace and then extact HOG features, Color historam features and Pixel values. This function could extract HOG feature from individual channel or all the 3 three channels. After taking out all features this function concatenated all the features in one row for each image and appended it to features matrix. One of the car image and HOG features of its 3 channels are shown below
@@ -85,6 +86,7 @@ Here's a [link to my video result](https://github.com/akhilumat/Self-Driving-Car
 To avoid false positives and combine overlapping boxes I used three fuctions. Firstly I took an image and defined a zero template with same size of image and one channel. Then I used add heat fuction to add 1 to pixel values for each bounding box. Then applied threshhold to avoid false detections. Then from scipy.ndimage.measurements I used label() function to find out how many cars are in the image and which pixel belongs to which car. Then this label values and image was made input to draw labeled boxes fuction, which drew separate boxes around each car. Heatmaps and Car detections for some images are shown below.
 
 ![alt text][image11]
+
 ![alt text][image12]
 
 #### 3. Defining Pipeline for video
