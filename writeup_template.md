@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 [//]: # (Image References)
-[image1]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture1.PNG
+[image1]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/blob/master/output_images/Capture1.PNG
 [image2]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture2.PNG
 [image3]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture3.PNG
 [image4]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project5-Vehicle-detection-and-Tracking/tree/master/output_images/Capture4.PNG
